@@ -28,6 +28,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" alt="magento" width="40" height="40"/> </a> 
+<a href="https://www.joomla.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" alt="magento" width="40" height="40"/> </a> 
 
 ## Tools
 
